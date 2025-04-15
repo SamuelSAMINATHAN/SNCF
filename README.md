@@ -65,16 +65,4 @@ streamlit run app.py
    - Graphiques temporels
    - Dashboard Streamlit
 
-## 📊 Résultats Principaux
-*(À compléter avec les résultats spécifiques de l'analyse)*
 
-## 🔍 Documentation
-- Les notebooks sont auto-documentés avec des explications détaillées
-- Le dashboard inclut des tooltips explicatifs
-- Chaque étape de l'analyse est justifiée et commentée
-
-## 📝 License
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
-
-## 👥 Contact
-Pour toute question ou suggestion d'amélioration, n'hésitez pas à ouvrir une issue ou à me contacter directement.# SNCF
